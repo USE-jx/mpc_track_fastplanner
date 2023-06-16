@@ -1,0 +1,2 @@
+# mpc_track_fastplanner
+全向移动机器人，使用非线性mpc跟踪fastplanner的局部轨迹
